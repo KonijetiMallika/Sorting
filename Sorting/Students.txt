@@ -1,0 +1,4 @@
+vasavi, Class A
+mallika, Class B
+sameer, Class D
+anvitha, Class C
